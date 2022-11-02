@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aufgaben",
+    "\\Aufgaben\\01-unittest",
+    "\\Aufgaben\\01-unittest\\Statistics.Tests"
   ],
-  "SelectedNode": "\\C:\\Users\\aport\\Source\\Repos\\M426-Inf20a",
+  "SelectedNode": "\\Aufgaben\\01-unittest\\Statistics.Tests\\AverageTest.cs",
   "PreviewInSolutionExplorer": false
 }
